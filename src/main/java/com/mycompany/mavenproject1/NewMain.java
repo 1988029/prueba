@@ -27,7 +27,6 @@ public class NewMain {
                 if (soltemp == 1) {                
                     System.out.println(i+"  "+ j+"  " + sol);                    
                     System.out.println(sol+" es un número sin decimales");
-                    ;
                 }
             }
         }
